@@ -1,0 +1,2 @@
+dynaparse==0.1a3
+jupyter==1.0.0

@@ -1,0 +1,5 @@
+cf2_arg1: 1
+cf2_arg2: "myarg"
+nested_section:
+  cf2_subarg1: 1.234
+  cf2_subarg2: "mysubarg"
